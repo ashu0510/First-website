@@ -2,10 +2,15 @@ body{
     background-color: #212121;
     color: azure;
 }
-div{
+.div{
     background-color: rgb(67, 55, 118);
 }
 p{
     color: rgb(255, 255, 255);
     background-color: rgb(200, 187, 12);
+}
+
+.lorem{
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 137, 200);
 }
