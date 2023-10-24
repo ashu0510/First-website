@@ -5,3 +5,7 @@ body{
 div{
     background-color: rgb(67, 55, 118);
 }
+p{
+    color: rgb(255, 255, 255);
+    background-color: rgb(118, 114, 55);
+}
